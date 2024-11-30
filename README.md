@@ -6,7 +6,12 @@ Google Docs: https://docs.google.com/document/d/1Z9lC5q_sBvySbtkHFsd24HZ8oaYq2Hs
 Wildfire & Black Ice Reporting App
 
 Team members:
+
+
 Mohamed Sakr
+
 Carson Bennett
+
 Jeet Vaidya
+
 Anuk Ahangamgoda
