@@ -78,7 +78,7 @@
     <Button
         android:id="@+id/login"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="54dp"
         android:text="LOGIN"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -104,7 +104,7 @@
     <Button
         android:id="@+id/register"
         android:layout_width="113dp"
-        android:layout_height="43dp"
+        android:layout_height="48dp"
         android:layout_marginEnd="64dp"
         android:text="REGISTER"
         android:textSize="12sp"
