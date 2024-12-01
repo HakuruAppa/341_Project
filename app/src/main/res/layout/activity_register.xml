@@ -134,7 +134,7 @@
         app:layout_constraintTop_toBottomOf="@+id/dob" />
 
     <RadioGroup
-        android:id="@+id/radioGroup"
+        android:id="@+id/idType"
         android:layout_width="320dp"
         android:layout_height="35dp"
         android:layout_centerInParent="true"
@@ -188,6 +188,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.516"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+        app:layout_constraintTop_toBottomOf="@+id/idType" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
