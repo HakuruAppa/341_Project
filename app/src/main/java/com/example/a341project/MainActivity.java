@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //link to home screen here.
+        //link to home screen here
         Login.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 allCheck = CheckAllFields();
